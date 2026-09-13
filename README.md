@@ -10,6 +10,8 @@ Explore an abandoned medical ward, follow radio guidance, and fight through five
 
 ## Play
 
+**[V1.7 release notes and downloads](https://github.com/flyfox666/ward09/releases/tag/v1.7)**
+
 **[Download Ward 09 V1.7 for Windows — Google Drive](https://drive.google.com/drive/folders/1CIDwBjVVGEH7FWm0eBhHsJKa9j97rE3I)**
 
 The shared folder contains both Windows 64-bit editions and the English installation guide. Choose one game package:
