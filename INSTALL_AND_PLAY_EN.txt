@@ -1,0 +1,131 @@
+﻿QUARANTINE / WARD 09 — V1.7
+Chinese / English · Offline survival shooter demo · Windows 64-bit
+Updated: 2026-09-10
+
+QUICK START
+Download Ward09_V1.7_Windows_Setup.exe, run it, and follow the installer.
+Launch Quarantine - Ward 09 from the Start menu or optional desktop shortcut.
+No Unreal Engine, Epic Launcher, Blender, Codex or internet connection is needed to play.
+
+IMPORTANT: Settings are saved. Campaign progress is NOT saved in this demo.
+Closing or restarting the game begins the campaign again.
+
+1. WHICH DOWNLOAD?
+
+Recommended: Ward09_V1.7_Windows_Setup.exe — approximately 515 MB.
+Includes an installation wizard, folder selection, shortcuts and uninstaller.
+
+Portable alternative: Ward09_V1.7_Bilingual_Windows.zip — approximately 543 MB.
+Extract the entire archive, open Ward09_V1.7_Bilingual, then run StartGame.cmd
+or Ward09.exe. Keep all accompanying folders. Do not launch from inside the ZIP
+or a cloud-drive preview, and do not copy out only the EXE.
+
+Both downloads contain the SAME game. You only need one.
+Files ending in .sha256.txt are optional integrity checksums, not launchers.
+These downloads do not run directly on macOS, phones or tablets.
+
+2. INSTALLATION AND LANGUAGE
+
+The installer offers English and Simplified Chinese. Choose an installation
+folder you can write to, or keep the default. A desktop shortcut is optional.
+The installation is for the current Windows user. If a compatible Microsoft
+Visual C++ runtime is missing, the bundled runtime installer may request
+administrator permission.
+
+The installer's language does not select the in-game language.
+The first game launch defaults to Chinese. On the start screen or Esc menu,
+click the top-right button labelled “语言：中文 / English” to switch to English.
+Menus, objectives, subtitles, journal entries and story voices change together.
+Your choice is saved. Switching preserves the current mission and restarts
+an active spoken line in the selected language.
+
+The default display mode is a 1280×720 window. Use Esc > Display to change it.
+
+3. PROVISIONAL HARDWARE GUIDANCE
+
+These are suggestions for initial testing, NOT verified minimum requirements
+or a guarantee of any particular frame rate.
+
+OS: Windows 11 64-bit preferred. Windows 10 22H2 64-bit needs further testing.
+CPU: A relatively recent Intel Core i5 / AMD Ryzen 5 or better.
+RAM: 16 GB or more suggested.
+GPU: A dedicated GPU around NVIDIA RTX 3060 / AMD RX 6600 performance or better,
+     with stable drivers from the GPU manufacturer.
+Storage: Game files occupy approximately 832 MB. Allow at least 3 GB free for
+         installation and temporary files; an SSD is preferable.
+Input: Keyboard and mouse. Headphones are recommended for directional audio.
+
+The game uses UE5 dynamic lighting and shadows. Older GPUs and ordinary office
+integrated graphics have not been fully tested. A DirectX 12 label alone does
+not establish compatibility or performance. Start at 1280×720.
+
+Verified test machine: Intel i5-13400F, RTX 4090, 64 GB RAM, Windows 11.
+This describes the test environment, not a requirement for players.
+
+4. CONTROLS
+
+WASD: Move                         Mouse: Look
+Space: Jump                        Left click: Fire / Knife slash
+Right click: Aim firearm            1–5 / Mouse wheel: Change weapon
+R: Reload                          G: Throw grenade
+Q: Use medkit                      E: Interact / Pick up
+J: Field journal                   M: Toggle minimap
+H: Toggle enemy health bars         Esc: Pause / Settings / Help / Quit
+F9: Restart campaign
+
+Follow the top-left objective. Secure the area, approach the indicated device
+and press E. The demo contains the Ward Nine prologue and five connected zones,
+ending with extraction.
+
+5. SETTINGS
+
+Esc > Mouse & controls: Sensitivity and inverted vertical look.
+Esc > Display: Windowed, borderless or fullscreen; resolution.
+Confirm display changes when prompted, or the previous settings return.
+Esc > Audio: Separate music, effects and ambience volumes; master mute.
+Story voices can be turned off independently. Subtitles remain available.
+
+6. TROUBLESHOOTING
+
+“Unknown publisher” / Windows security warning:
+This release does not have a publisher digital signature. Confirm that the
+download came from the author. Do not disable system protection or antivirus.
+If blocked, send the author a screenshot rather than using an unknown patch.
+
+Missing VCRUNTIME, MSVCP or Visual C++ components:
+Run Prerequisites\vc_redist.x64.exe in the game folder and install or repair it.
+Restart Windows if requested. Do not download individual DLLs from unknown sites.
+
+The game does not start / damaged download:
+Ensure the download completed. Fully extract the portable version first.
+Try Ward09.exe directly. If it still fails, note the error and your hardware
+details, and report them to the author. A fresh download may be needed.
+
+Low performance:
+Use 1280×720 and close other GPU-intensive applications. Plug a gaming laptop
+into power and ensure it uses its dedicated GPU. Try stable driver updates.
+Low-end hardware compatibility is still being evaluated.
+
+No audio:
+Check the Windows output device and volume mixer, then the game's mute and
+volume settings. If only dialogue is missing, check the Story voices switch.
+
+Progress disappears after restarting:
+Expected for this demo. Preferences are saved; campaign progress is not.
+
+Mac support:
+These EXE and ZIP files are Windows-only. A native Mac release is not yet ready.
+
+7. UNINSTALL, FEEDBACK AND VIDEOS
+
+Installed version: Uninstall through Windows Settings > Apps, or use
+Uninstall Quarantine - Ward 09 in the game's Start menu folder.
+Portable version: Quit the game and delete the folder you extracted.
+Personal settings may remain. Keep any personal screenshots or files you need.
+
+For feedback, include your Windows version, CPU, GPU, RAM, display resolution,
+installer/portable edition, mission, steps to reproduce, and a screenshot or clip.
+
+When publishing gameplay with its music, include the attribution from
+VIDEO-MUSIC-CREDIT.txt in your video description. See Credits and BGM-CREDITS
+in the game folder for asset, voice and music information.

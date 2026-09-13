@@ -59,4 +59,3 @@ Please report the game version, mission, steps to reproduce, Windows version, GP
 Read [the development notes](DEVELOPMENT.md) and [selected implementation files](code/README.md). These excerpts document dynamic music and bilingual display; they are not a standalone source distribution.
 
 Created by [flyfox666](https://github.com/flyfox666).
-
