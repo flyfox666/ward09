@@ -10,7 +10,9 @@ Explore an abandoned medical ward, follow radio guidance, and fight through five
 
 ## Play
 
-The latest prepared build is **V1.7 for Windows 64-bit**. Public release assets have not been uploaded to this repository yet. The prepared download options are:
+**[Download Ward 09 V1.7 for Windows — Google Drive](https://drive.google.com/drive/folders/1CIDwBjVVGEH7FWm0eBhHsJKa9j97rE3I)**
+
+The shared folder contains both Windows 64-bit editions and the English installation guide. Choose one game package:
 
 - `Ward09_V1.7_Windows_Setup.exe`: installer with shortcuts and an uninstaller.
 - `Ward09_V1.7_Bilingual_Windows.zip`: portable edition; extract the entire archive and run `StartGame.cmd` or `Ward09.exe`.
