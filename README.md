@@ -14,11 +14,13 @@ Selected real gameplay from a successful English-language playthrough: explorati
 
 ## Play
 
-**[V1.7 release notes and downloads](https://github.com/flyfox666/ward09/releases/tag/v1.7)**
+**[Download Windows installer](https://github.com/flyfox666/ward09/releases/download/v1.7/Ward09_V1.7_Windows_Setup.exe)** · **[Download portable ZIP](https://github.com/flyfox666/ward09/releases/download/v1.7/Ward09_V1.7_Bilingual_Windows.zip)**
+
+[V1.7 release notes, installation guide and SHA256 files](https://github.com/flyfox666/ward09/releases/tag/v1.7)
 
 **[Download Ward 09 V1.7 for Windows — Google Drive](https://drive.google.com/drive/folders/1CIDwBjVVGEH7FWm0eBhHsJKa9j97rE3I)**
 
-The shared folder contains both Windows 64-bit editions and the English installation guide. Choose one game package:
+Both Windows 64-bit editions, the English installation guide, and SHA256 files are available in GitHub Release assets. Google Drive is an alternative download mirror. Choose one game package:
 
 - `Ward09_V1.7_Windows_Setup.exe`: installer with shortcuts and an uninstaller.
 - `Ward09_V1.7_Bilingual_Windows.zip`: portable edition; extract the entire archive and run `StartGame.cmd` or `Ward09.exe`.
