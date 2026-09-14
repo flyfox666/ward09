@@ -4,7 +4,11 @@ A bilingual, offline first-person survival shooter for Windows, developed throug
 
 Explore an abandoned medical ward, follow radio guidance, and fight through five connected campaign zones. Switch between Chinese and English menus, objectives, subtitles, journals, and story voices in the same game.
 
-**[Watch the development and gameplay video on YouTube](https://www.youtube.com/watch?v=wWohgJQMzwY)**
+**[Watch the 104-second gameplay showcase on YouTube](https://youtu.be/u-rbobDcoZI)**
+
+Selected real gameplay from a successful English-language playthrough: exploration, combat, the Warden boss encounter, and extraction. Edited highlights with original game audio.
+
+[Earlier development and gameplay video](https://www.youtube.com/watch?v=wWohgJQMzwY)
 
 ![English V1.7 gameplay — captured from the submitted gameplay edit](images/english-gameplay.jpg)
 
