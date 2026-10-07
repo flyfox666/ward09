@@ -12,6 +12,16 @@ Selected real gameplay from a successful English-language playthrough: explorati
 
 ![English V1.7 gameplay — captured from the submitted gameplay edit](images/english-gameplay.jpg)
 
+## V1.9 update — 2026-10-07
+
+A new standalone Windows portable build has been prepared and tested locally. **V1.9 binary Release upload is pending; the public downloads below still contain V1.7.**
+
+V1.9 adds hold-Shift sprint, a scoped bolt-action sniper rifle on key **6**, and a standing electric board in the independent Lockdown Extraction mode. Its route turns through five themed sections. The existing story-campaign maps are retained; sprint and the sniper are also available there.
+
+Board controls: **E** mount/dismount, **W/S** forward/reverse, **A/D** steer, **Space** brake. Dismount to shoot or use terminals. The board is a finite-charge, flat-floor arcade prototype.
+
+See [V1.9 controls](releases/v1.9/PLAY_GUIDE_EN.md), [中文说明](releases/v1.9/试玩说明.md), and [validation and release status](releases/v1.9/RELEASE_NOTES.md). The main gameplay image and videos below show the earlier campaign version.
+
 ## Play
 
 **[Download Windows installer](https://github.com/flyfox666/ward09/releases/download/v1.7/Ward09_V1.7_Windows_Setup.exe)** · **[Download portable ZIP](https://github.com/flyfox666/ward09/releases/download/v1.7/Ward09_V1.7_Bilingual_Windows.zip)**
